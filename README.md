@@ -2,7 +2,7 @@
 
 This is a lightweight project include some basic flow for a ecommerce site. It's pure Frontend side with data sample data located locally, and it's responsive.
 
-<a href="">Live Demo</a>
+<a href="https://ecommerce-psi-ruby-53.vercel.app/">Live Demo</a>
 
 ## Library stack using:
 
