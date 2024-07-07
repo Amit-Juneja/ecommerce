@@ -4,6 +4,8 @@ This is a lightweight project include some basic flow for a ecommerce site. It's
 
 <a href="https://ecommerce-psi-ruby-53.vercel.app/">Live Demo</a>
 
+<a href="https://www.loom.com/share/21f2bee15e8f4367ade45248a63da581?sid=a7c1a81f-70a6-4852-91c9-587eac4db5b5">Video Recording</a>
+
 ## Library stack using:
 
 - NextJs 12
